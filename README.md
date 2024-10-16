@@ -1,6 +1,6 @@
-# Boom Audio Port
+# Boom Audio Engine
 
-Boom Audio is a custom audio enhancement port, inspired by the Beats Audio engine, designed to improve the overall sound quality on supported Android devices. This project enhances audio processing to deliver rich, high-quality sound for music lovers and audiophiles alike.
+Boom Audio is a custom audio enhancement Engine, designed to improve the overall sound quality on supported Android devices. This project enhances audio processing to deliver rich, high-quality sound for music lovers and audiophiles alike.
 
 ## Features
 
